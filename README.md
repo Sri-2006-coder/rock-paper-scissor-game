@@ -82,4 +82,4 @@ http://localhost:5173
 
 ## Author
 
-Your Name
+K.Sri Harshini
