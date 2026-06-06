@@ -19,8 +19,8 @@ function App() {
 
     try {
       const response = await fetch(
-        `http://localhost:8080/play?choice=${choice}`
-      );
+  `https://stellar-vitality-production.up.railway.app/play?choice=${choice}`
+);
 
       const data = await response.json();
 
