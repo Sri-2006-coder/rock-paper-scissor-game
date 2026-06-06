@@ -64,15 +64,15 @@ http://localhost:5173
 
 ### Home Screen
 
-![Home Screen](home.png)
+![Home Screen](home.PNG)
 
 ### Gameplay
 
-![Gameplay](gameplay.png)
+![Gameplay](gameplay.PNG)
 
 ### Match Winner
 
-![Winner](winner.png)
+![Winner](winner.PNG)
 ## Future Enhancements
 
 - Online leaderboard
